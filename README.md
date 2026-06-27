@@ -32,7 +32,7 @@
 
 ---
 
-## 📚 Currently Learning
+## 📚 Up skilling In
 
 - Azure Data Factory
 - Azure Databricks
