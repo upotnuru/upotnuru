@@ -3,7 +3,7 @@
 ## 💻 About Me
 
 - ☁️ Azure Data Engineer
-- 🌱 Currently learning Azure Data Factory, Azure Databricks, and PySpark
+- 🌱 Azure Data Factory, Azure Databricks, and PySpark
 - 📊 Passionate about Data Engineering, ETL Pipelines, SQL, and Data Warehousing
 - 🎯 Preparing for Data Engineer roles in top product-based companies
 
